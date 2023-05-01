@@ -1,4 +1,5 @@
 # Vungle Ads SDK
 
-##Introduction
+## Introduction
+
 Vungle Ads SDK now officially supports installation via Swift Package Manager.
