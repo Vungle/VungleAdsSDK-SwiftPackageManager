@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
                     name: "VungleAdsSDK",
-                    url: "https://vungle2-cdn-prod.s3.amazonaws.com/sdks/ios/SwiftPackageManager/VungleAds-7.7.4.zip",
-                    checksum: "bd94a794b03909c45bccf747c9d908697e62b4ebccf3b357d7d681f937312ddc"
+                    url: "https://vungle2-cdn-prod.s3.amazonaws.com/sdks/ios/SwiftPackageManager/VungleAds-7.7.5.zip",
+                    checksum: "d0c721f68ed385c0f6170988b2c7158253734cac818a642cb99f02a0dd11d606"
         )
     ]
 )
